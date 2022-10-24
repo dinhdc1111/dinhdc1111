@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdc1111" /> </p>
-<img align="right" alt="Code" style="padding-top:40px" width="350"  src="https://64.media.tumblr.com/e27aef67e14e20884bb4f5341282a0e4/597d18cd957d5262-9d/s1280x1920/74078a9b2c93ea4670c140c11bbb204a27062546.gifv">
+<img align="right" alt="Code" style="padding-top:40px" width="431"  src="https://64.media.tumblr.com/e27aef67e14e20884bb4f5341282a0e4/597d18cd957d5262-9d/s1280x1920/74078a9b2c93ea4670c140c11bbb204a27062546.gifv">
 
 - 🔭 I’m currently working on [FPT Polytechnic - Ha Noi](https://caodang.fpt.edu.vn/)
 
