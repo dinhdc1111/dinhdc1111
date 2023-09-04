@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/do9rcgv5s/image/upload/v1693795004/lorwf3lznqnns0dqqqui.jpg)
+![MasterHead](https://res.cloudinary.com/do9rcgv5s/image/upload/v1693832857/pmivhndh66bcwakoxb0w.jpg)
 <!-- Copy đấm cho trận ý -->
 <!-- Banner old CiDii: url - https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdc1111" /></p>
@@ -55,8 +55,6 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" alt="tailwind" />
       <br>Tailwind
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="icon" width="56" height="56" />
       <br>ReactJS
@@ -65,6 +63,8 @@
         <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="56" height="56" />
       <br>Redux
     </td>
+  </tr>
+  <tr>
     </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="56" height="56" />
@@ -86,9 +86,7 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="Rest API" />
       <br>MySQL
     </td>
-  </tr>
- <tr>
-   <td align="center" width="96">
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="56" height="56" alt="GitHub" />
       <br>Github
     </td>
@@ -104,6 +102,8 @@
         <img src="https://skillicons.dev/icons?i=postman" width="56" height="56" alt="Postman" />
       <br>Postman
     </td>
+  </tr>
+ <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vite" width="56" height="56" alt="Postman" />
       <br>Vite
