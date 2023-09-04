@@ -2,15 +2,13 @@
 <!-- Copy đấm cho trận ý -->
 <!-- Banner old CiDii: url - https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdc1111" /></p>
-<img align="right" alt="Code" width="431" src="https://res.cloudinary.com/do9rcgv5s/image/upload/v1693796898/od38aqxofnx2bamqji7c.png">
+<img align="right" alt="Code" width="333" src="https://res.cloudinary.com/do9rcgv5s/image/upload/v1693796898/od38aqxofnx2bamqji7c.png">
 
 -   🔭 I’m currently working on [FPT Polytechnic](https://caodang.fpt.edu.vn/)
 
 -   🌱 I’m currently learning **ReactJS**
 
 -   🤝 I’m looking for help with **ReactJS**
-
--   👨‍💻 All of my projects are available at [https://github.com/dinhdc1111](https://github.com/dinhdc1111)
 
 -   💬 Ask me about **HTML, CSS, Javascript**
 
@@ -20,7 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/cidii2k2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cidii2k2" height="30" width="40" /></a>
+  <a href="https://fb.com/cidii2k2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cidii2k2" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/cidii1111.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinhdc1111" height="30" width="40" /></a>
 </p>
 
 ## My favorite tools and technologies ⚙️
