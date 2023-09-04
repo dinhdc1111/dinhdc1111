@@ -1,34 +1,135 @@
-![MasterHead](https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif)
-<h1 align="center">Hi 👋, I'm Dong Cong Dinh</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+![MasterHead](https://res.cloudinary.com/do9rcgv5s/image/upload/v1693795004/lorwf3lznqnns0dqqqui.jpg)
+<!-- Copy đấm cho trận ý -->
+<!-- Banner old CiDii: url - https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdc1111" /></p>
+<img align="right" alt="Code" width="431" src="https://res.cloudinary.com/do9rcgv5s/image/upload/v1693796898/od38aqxofnx2bamqji7c.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdc1111" /> </p>
-<img align="right" alt="Code" style="padding-top:40px" width="431"  src="https://res.cloudinary.com/dmly98mc5/image/upload/v1671836183/products/5Myt_mcxxvl.gif">
+-   🔭 I’m currently working on [FPT Polytechnic](https://caodang.fpt.edu.vn/)
 
-- 🔭 I’m currently working on [FPT Polytechnic - Ha Noi](https://caodang.fpt.edu.vn/)
+-   🌱 I’m currently learning **ReactJS**
 
-- 🌱 I’m currently learning **ReactJS**
+-   🤝 I’m looking for help with **ReactJS**
 
-- 🤝 I’m looking for help with **ReactJS, Angular**
+-   👨‍💻 All of my projects are available at [https://github.com/dinhdc1111](https://github.com/dinhdc1111)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dinhdc1111](https://github.com/dinhdc1111)
+-   💬 Ask me about **HTML, CSS, Javascript**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+-   📫 How to reach me **dinhdc1111@gmail.com**
 
-- 📫 How to reach me **dinhdc1111@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
+-   ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/cidii2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cidii2k2" height="30" width="40" /></a>
+<a href="https://fb.com/cidii2k2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cidii2k2" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## My favorite tools and technologies ⚙️
+> Tools and technologies that I have worked with and am interested in
+<table>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="56" height="56" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="56" height="56" alt="css" />
+      <br>SASS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" height="56" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="tailwind" />
+      <br>Typescript
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="56" height="56" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" alt="tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="icon" width="56" height="56" />
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="56" height="56" />
+      <br>Redux
+    </td>
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="56" height="56" />
+      <br>Angular
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Postman" />
+      <br>NodeJS
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="56" height="56" alt="Postman" />
+      <br>MongoDB
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="56" height="56" alt="Rest API" />
+      <br>Rest API
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="Rest API" />
+      <br>MySQL
+    </td>
+  </tr>
+ <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="56" height="56" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="56" height="56" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="56" height="56" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="56" height="56" alt="Postman" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="Postman" />
+      <br>Vscode
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" width="56" height="56" alt="Postman" />
+      <br>Stackoverflow
+    </td>
+ </tr>
+</table>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhdc1111&show_icons=true&locale=en&layout=compact" alt="dinhdc1111" /></p>
+## 📊 Github stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhdc1111&show_icons=true&locale=en" alt="dinhdc1111" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhdc1111&" alt="dinhdc1111" /></p>
+<div> 
+<div align="center">
+  
+  | <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=dinhdc1111&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&include_all_commits=true&hide_border=true&title_color=ff6e96&theme=radical" height="165" alt="dinhdc1111"></a> | <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhdc1111&theme=radical&hide_border=true" alt="dinhdc1111" /></a> |
+  |---|---|
+  | <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhdc1111&theme=radical" /></a> |  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinhdc1111&theme=radical&utcOffset=8"></a> |
+</div>
+</div>
