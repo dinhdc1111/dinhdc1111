@@ -111,10 +111,6 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="Postman" />
       <br>Vscode
     </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" width="56" height="56" alt="Postman" />
-      <br>Stackoverflow
-    </td>
  </tr>
 </table>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
