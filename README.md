@@ -59,9 +59,13 @@
       <br>ReactJS
     </td>
     <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="icon" width="56" height="56" />
+      <br>React Native
+    </td>
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="56" height="56" />
       <br>Redux
-    </td>
+    </td> -->
   </tr>
   <tr>
     </td>
