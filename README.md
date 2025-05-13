@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://fb.com/cidii2k2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cidii2k2" height="30" width="40" /></a>
   <a href="https://www.instagram.com/cidii1111.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinhdc1111" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/dinh-dong-cong-241374235" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cidii1111" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/dinhdc1111" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cidii1111" height="30" width="40" />
 </a>
 
 </p>
