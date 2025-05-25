@@ -1,15 +1,16 @@
 ![MasterHead](https://res.cloudinary.com/do9rcgv5s/image/upload/v1693832857/pmivhndh66bcwakoxb0w.jpg)
 <!-- Vào đây làm gì? -->
 <!-- Banner old CiDii: url - https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdc1111" /></p>
-<img align="right" src="https://media.giphy.com/media/RoxrLxWSJNqYl8Mbqz/giphy.gif" width="333">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=orange&style=plastic" alt="dinhdc1111" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p><img align="right" src="https://media.giphy.com/media/RoxrLxWSJNqYl8Mbqz/giphy.gif" width="333">
 <!-- <img align="right" alt="Code" width="333" src="https://res.cloudinary.com/do9rcgv5s/image/upload/v1693796898/od38aqxofnx2bamqji7c.png"> -->
 
--   🔭 I’m currently working on [FPT Polytechnic Hanoi](https://caodang.fpt.edu.vn/)
+-   🔭 I’m currently working on [MH Solution](https://mhsolution.vn/)
 
--   🌱 I’m currently learning **ReactJS**
+-   🎓 Former student at [FPT Polytechnic Hanoi](https://caodang.fpt.edu.vn/)
+  
+-   🌱 Currently studying and improving my skills in **Frontend Development**
 
--   🤝 I’m looking for help with **ReactJS**
+-   🤝 Open to learning and seeking support in ReactJS
 
 -   💬 Ask me about **HTML, CSS, Javascript**
 
@@ -17,7 +18,7 @@
 
 -   ⚡ Fun fact **I think I'm funny**
 
-<h3 align="left">❤ Connect with me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
+<h3 align="left">❤ Connect with me</h3>
 <p align="left">
   <a href="https://fb.com/cidii2k2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cidii2k2" height="30" width="40" /></a>
   <a href="https://www.instagram.com/cidii1111.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinhdc1111" height="30" width="40" /></a>
