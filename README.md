@@ -125,12 +125,34 @@
 </a>
 
 ## 📊 Github stats
-
 <div> 
 <div align="center">
-  
-  | <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=dinhdc1111&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&include_all_commits=true&hide_border=true&title_color=ff6e96&theme=radical" height="165" alt="dinhdc1111"></a> | <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhdc1111&theme=radical&hide_border=true" alt="dinhdc1111" /></a> |
-  |---|---|
-  | <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhdc1111&theme=radical" /></a> |  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinhdc1111&theme=radical&utcOffset=8"></a> |
+ <table>
+  <tr>
+    <td>
+      <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dinhdc1111&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&include_all_commits=true&hide_border=true&title_color=ff6e96&theme=radical" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhdc1111&theme=radical&layout=pie&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhdc1111&theme=radical" alt="Profile Details" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinhdc1111&theme=radical&utcOffset=8" alt="Productive Time" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 </div>
