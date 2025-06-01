@@ -91,6 +91,10 @@
       <br>MySQL
     </td>
   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="56" height="56" alt="Rest API" />
+      <br>PHP
+    </td>
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="56" height="56" alt="GitHub" />
       <br>Github
     </td>
@@ -102,12 +106,12 @@
         <img src="https://skillicons.dev/icons?i=gitlab" width="56" height="56" alt="GitLab" />
       <br>GitLab
     </td>
-    <td align="center" width="96">
+  </tr>
+ <tr>
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="56" height="56" alt="Postman" />
       <br>Postman
     </td>
-  </tr>
- <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vite" width="56" height="56" alt="Postman" />
       <br>Vite
