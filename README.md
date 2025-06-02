@@ -36,20 +36,32 @@
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="56" height="56" alt="css" />
+<!--         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="SASS" width="56" height="56" /> -->
+        <img src="https://skillicons.dev/icons?i=sass" width="56" height="56" alt="SCSS" />
       <br>SASS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" height="56" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="56" height="56" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="tailwind" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="54" height="54" />
+<!--         <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="Typescript" /> -->
       <br>Typescript
+    </td>
+    <td align="center" width="96">
+<!--         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> -->
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="icon" width="54" height="54" />
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="54" height="54" />
+<!--         <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="56" height="56" /> -->
+      <br>Redux
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="56" height="56" alt="bootstrap" />
@@ -59,14 +71,6 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" alt="tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="icon" width="56" height="56" />
-      <br>ReactJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="56" height="56" />
-      <br>Redux
-    </td>
   </tr>
   <tr>
     </td>
@@ -75,32 +79,32 @@
       <br>Angular
     </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Postman" />
-      <br>NodeJS
+        <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="Rest API" />
+      <br>MySQL
     </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="56" height="56" alt="Postman" />
       <br>MongoDB
     </td>
-          <td align="center" width="96">
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Postman" />
+      <br>NodeJS
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="56" height="56" alt="Postman" />
+      <br>Express
+    </td>
+  <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="56" height="56" alt="Rest API" />
       <br>Rest API
     </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="Rest API" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=nestjs" width="56" height="56" alt="nestjs" />
+      <br>Nestjs
     </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="56" height="56" alt="Rest API" />
+        <img src="https://skillicons.dev/icons?i=php" width="56" height="56" alt="PHP" />
       <br>PHP
-    </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="56" height="56" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" />
-      <br>Git
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="56" height="56" alt="GitLab" />
@@ -109,16 +113,36 @@
   </tr>
  <tr>
    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" />
+      <br>Git
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="56" height="56" alt="GitHub" />
+      <br>Github
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="54" height="54" />
+      <br>Prettier
+    </td>
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="56" height="56" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="56" height="56" alt="Postman" />
+        <img src="https://skillicons.dev/icons?i=vite" width="56" height="56" alt="Vite" />
       <br>Vite
     </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel" />
+      <br>Vercel
+    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="Postman" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="Vscode" />
       <br>Vscode
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=notion" width="56" height="56" alt="Notion" />
+      <br>Notion
     </td>
  </tr>
 </table>
