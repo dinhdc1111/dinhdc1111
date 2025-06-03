@@ -4,19 +4,19 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=orange&style=plastic" alt="dinhdc1111" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p><img align="right" src="https://media.giphy.com/media/RoxrLxWSJNqYl8Mbqz/giphy.gif" width="333">
 <!-- <img align="right" alt="Code" width="333" src="https://res.cloudinary.com/do9rcgv5s/image/upload/v1693796898/od38aqxofnx2bamqji7c.png"> -->
 
--   🔭 I’m currently working on [MH Solution](https://mhsolution.vn/)
+🔭 I’m currently working on [MH Solution](https://mhsolution.vn/)
 
--   🎓 Former student at [FPT Polytechnic Hanoi](https://caodang.fpt.edu.vn/)
+🎓 Former student at [FPT Polytechnic Hanoi](https://caodang.fpt.edu.vn/)
   
--   🌱 Currently studying and improving my skills in **Frontend Development**
+🌱 Currently studying and improving my skills in **Frontend Development**
 
--   🤝 Open to learning and seeking support in ReactJS
+🤝 Open to learning and seeking support in ReactJS
 
--   💬 Ask me about **HTML, CSS, Javascript**
+💬 Ask me about **HTML, CSS, Javascript**
 
--   📫 How to reach me **dongcongdinh2018@gmail.com**
+📫 How to reach me **dongcongdinh2018@gmail.com**
 
--   ⚡ Fun fact **I think I'm funny**
+🙂 Fun fact **I think I'm funny**
 
 <h3 align="left">❤ Connect with me</h3>
 <p align="left">
