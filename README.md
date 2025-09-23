@@ -10,9 +10,9 @@
   
 🌱 Currently studying and improving my skills in **Frontend Development**
 
-🤝 Open to learning and seeking support in ReactJS
+🤝 Open to learning and seeking support in **ReactJS**
 
-💬 Ask me about **HTML, CSS, Javascript**
+💬 Ask me about **HTML, CSS, JavaScript**
 
 📫 How to reach me **dongcongdinh2018@gmail.com**
 
@@ -46,12 +46,12 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="56" height="56" />
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="54" height="54" />
 <!--         <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="Typescript" /> -->
-      <br>Typescript
+      <br>TypeScript
     </td>
     <td align="center" width="96">
 <!--         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> -->
@@ -159,7 +159,7 @@
   <tr>
     <td>
       <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dinhdc1111&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&include_all_commits=true&hide_border=true&title_color=ff6e96&theme=radical" alt="GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dinhdc1111&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&hide_border=true&theme=radical" alt="GitHub Stats" />
       </a>
     </td>
     <td>
