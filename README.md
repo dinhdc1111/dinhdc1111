@@ -1,8 +1,8 @@
 <!-- VÀO ĐÂY LÀM GÌ THẾ 😒 -->
 # Dong Cong Dinh (CiDii) - Frontend Developer <img src="./assets/cidii-icon-1.webp" width="50" alt="CiDii Icon"/>
 ![MasterHead](https://res.cloudinary.com/do9rcgv5s/image/upload/v1770958181/u2pzldkuzyo8qmuxh4th.jpg)
-|<img src="./assets/js-icon.svg" width="12" alt="CiDii Gif"/>&nbsp;&nbsp;&nbsp;script.js&nbsp;&nbsp;&nbsp;&nbsp;&times;
-|:-|
+|<img src="./assets/js-icon.svg" width="12" alt="CiDii Gif"/>&nbsp;&nbsp;&nbsp;script.js&nbsp;&nbsp;&nbsp;&nbsp;&times;|<img src="./assets/html-icon.webp" width="12" alt="CiDii Gif"/>&nbsp;&nbsp;&nbsp;<em>index.html</em>&nbsp;&nbsp;&nbsp;&nbsp;&times;|
+|:-|:-|
 ```JS
 /**
  * About Me
