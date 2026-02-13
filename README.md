@@ -1,20 +1,49 @@
-![MasterHead](https://res.cloudinary.com/do9rcgv5s/image/upload/v1693832857/pmivhndh66bcwakoxb0w.jpg)
-<!-- Vào đây làm gì? -->
-<!-- Banner old CiDii: url - https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=orange&style=plastic" alt="dinhdc1111" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p><img align="right" src="https://media.giphy.com/media/RoxrLxWSJNqYl8Mbqz/giphy.gif" width="333">
-<!-- <img align="right" alt="Code" width="333" src="https://res.cloudinary.com/do9rcgv5s/image/upload/v1693796898/od38aqxofnx2bamqji7c.png"> -->
+<!-- VÀO ĐÂY LÀM GÌ THẾ 😒 -->
+# Dong Cong Dinh (CiDii) - Frontend Developer <img src="./assets/cidii-icon-1.webp" width="50" alt="CiDii Icon"/>
+![MasterHead](https://res.cloudinary.com/do9rcgv5s/image/upload/v1770958181/u2pzldkuzyo8qmuxh4th.jpg)
+|<img src="./assets/js-icon.svg" width="12" alt="CiDii Gif"/>&nbsp;&nbsp;&nbsp;script.js&nbsp;&nbsp;&nbsp;&nbsp;&times;
+|:-|
+```JS
+/**
+ * About Me
+ */
+const developer = {
+  name: "Dong Cong Dinh",
+  role: "Frontend Developer",
+  stack: ["React", "JavaScript", "TypeScript"],
+  focus: ["Scalable UI", "Performance Optimization", "Clean Architecture"],
+};
 
-🔭 I’m currently working on [MH Solution](https://mhsolution.vn/)
+function introduce(dev) {
+  console.info(`Hi there 😍, I'm ${dev.name}.`);
+  console.info(`I'm a ${dev.role}.`);
+  console.info("Nice to meet you!");
+}
+
+introduce(developer);
+```
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=red&style=plastic" alt="dinhdc1111" />
+<img src="./assets/200.webp" width="50" alt="View Icon"/>
+</p>
+<strong>Output</strong>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=15CA00&background=FFFFFF00&width=600&height=40&separator=%3C&lines=Hi+there+%F0%9F%98%8D%2C+I'm+Dong+Cong+Dinh%3CI'm+a+Frontend+Developer%3CNice+to+meet+you!)](https://git.io/typing-svg)
+
+
+<img align="right" src="./assets/cidii-icon-3.gif" width="333" alt="CiDii Gif"/>
+
+🔭 I’m currently working on [FPT Polytechnic Hanoi](https://caodang.fpt.edu.vn/)
 
 🎓 Former student at [FPT Polytechnic Hanoi](https://caodang.fpt.edu.vn/)
-  
+
 🌱 Currently studying and improving my skills in **Frontend Development**
 
 🤝 Open to learning and seeking support in **ReactJS**
 
 💬 Ask me about **HTML, CSS, JavaScript**
 
-📫 How to reach me **dongcongdinh2018@gmail.com**
+💌 How to reach me **dongcongdinh2018@gmail.com**
 
 🙂 Fun fact **I think I'm funny**
 
@@ -28,7 +57,6 @@
 <!-- <br> -->
 
 ## ⚙️ My favorite tools and technologies
-> Tools and technologies that I have worked with and am interested in
 <table>
   <tr>
     <td align="center"  width="96">
@@ -148,11 +176,13 @@
 </table>
 
 ## 🏆 Github Profile Trophy
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 ## 📊 Github stats
+
 <div> 
 <div align="center">
  <table>
