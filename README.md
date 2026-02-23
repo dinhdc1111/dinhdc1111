@@ -93,14 +93,14 @@ introduce(developer);
     </td>
     <td align="center" width="96">
         <img src="./assets/tech/antd-logo.jpg" width="56" height="56" alt="shadcn UI" />
-      <br>Ant Design
-    </td>
-    <td align="center" width="96">
-        <img src="./assets/tech/shadcn-ui-logo-modified.png" width="56" height="56" alt="shadcn UI" />
-      <br>Shadcn UI
+      <br>AntD
     </td>
   </tr>
   <tr>
+  <td align="center" width="96">
+        <img src="./assets/tech/shadcn-ui-logo-modified.png" width="56" height="56" alt="shadcn UI" />
+      <br>Shadcn UI
+    </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=materialui" width="56" height="56" alt="Material UI" />
       <br>Material UI
@@ -129,7 +129,9 @@ introduce(developer);
         <img src="https://skillicons.dev/icons?i=bootstrap" width="56" height="56" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center"  width="96">
+  </tr>
+  <tr>
+  <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="56" height="56" alt="HTML" />
       <br>HTML
     </td>
