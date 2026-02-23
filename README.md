@@ -59,6 +59,7 @@ introduce(developer);
 </p>
 
 ## Frontend
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -83,30 +84,46 @@ introduce(developer);
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <img src="./assets/tech/tanstack-query-icon.png" alt="TanStack" width="54" height="54" />
+      <br>TanStack
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="54" height="54" />
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="56" height="56" alt="SCSS" />
-      <br>SASS
+        <img src="./assets/tech/antd-logo.jpg" width="56" height="56" alt="shadcn UI" />
+      <br>Ant Design
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=less" width="56" height="56" alt="SCSS" />
-      <br>LESS
+        <img src="./assets/tech/shadcn-ui-logo-modified.png" width="56" height="56" alt="shadcn UI" />
+      <br>Shadcn UI
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialui" width="56" height="56" alt="Material UI" />
+      <br>Material UI
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="56" height="56" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=less" width="56" height="56" alt="Less" />
+      <br>Less
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=styledcomponents" width="56" height="56" alt="Styled Components" />
       <br>Styled
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="./assets/tech/shadcn-ui-logo-modified.png" width="56" height="56" alt="shadcn UI" />
-      <br>Shadcn UI
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" alt="tailwind" />
       <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=emotion" width="56" height="56" alt="emotion" />
+      <br>Emotion
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="56" height="56" alt="bootstrap" />
@@ -121,7 +138,28 @@ introduce(developer);
       <br>CSS
     </td>
   </tr>
+</table>
+
+## Other Technologies
+
+<table>
   <tr>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Postman" />
+    <br>NodeJS
+  </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="56" height="56" alt="Postman" />
+      <br>Express
+    </td>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="56" height="56" alt="nestjs" />
+    <br>Nestjs
+  </td>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="56" height="56" alt="PHP" />
+    <br>PHP
+  </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="Rest API" />
       <br>MySQL
@@ -131,29 +169,13 @@ introduce(developer);
       <br>MongoDB
     </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Postman" />
-      <br>NodeJS
-    </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="56" height="56" alt="Postman" />
-      <br>Express
-    </td>
-  <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="56" height="56" alt="Rest API" />
       <br>Rest API
     </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="56" height="56" alt="nestjs" />
-      <br>Nestjs
-    </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="56" height="56" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="56" height="56" alt="GitLab" />
-      <br>GitLab
-    </td>
+  <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="56" height="56" alt="GitLab" />
+    <br>GitLab
+  </td>
   </tr>
  <tr>
    <td align="center" width="96">
@@ -165,7 +187,7 @@ introduce(developer);
       <br>Github
     </td>
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="54" height="54" />
+        <img src="./assets/tech/prettier-icon.svg" alt="icon" width="54" height="54" />
       <br>Prettier
     </td>
    <td align="center" width="96">
@@ -190,8 +212,6 @@ introduce(developer);
     </td>
  </tr>
 </table>
-
-## Backend
 
 ## 🏆 Github Profile Trophy
 
