@@ -238,13 +238,13 @@ introduce(developer);
 <td align="center" valign="top" width="12.5%">
   <a href="https://github.com/xuanphao19">
     <img src="https://avatars.githubusercontent.com/u/83102917?v=4" width="60" alt="xuanphao19"/><br />
-    <sub><b>xuanphao1…</b></sub>
+    <sub><b>xuanphao19</b></sub>
   </a>
 </td>
 <td align="center" valign="top" width="12.5%">
   <a href="https://github.com/dinhdcph14290">
     <img src="https://avatars.githubusercontent.com/u/97747510?v=4" width="60" alt="dinhdcph14290"/><br />
-    <sub><b>dinhdcph1…</b></sub>
+    <sub><b>dinhdcph14…</b></sub>
   </a>
 </td>
 <td align="center" valign="top" width="12.5%">
@@ -262,19 +262,19 @@ introduce(developer);
 <td align="center" valign="top" width="12.5%">
   <a href="https://github.com/phuonganhpt511">
     <img src="https://avatars.githubusercontent.com/u/133995530?v=4" width="60" alt="phuonganhpt511"/><br />
-    <sub><b>phuonganh…</b></sub>
+    <sub><b>phuonganhp…</b></sub>
   </a>
 </td>
 <td align="center" valign="top" width="12.5%">
   <a href="https://github.com/Nam2108004">
     <img src="https://avatars.githubusercontent.com/u/139768450?v=4" width="60" alt="Nam2108004"/><br />
-    <sub><b>Nam210800…</b></sub>
+    <sub><b>Nam2108004</b></sub>
   </a>
 </td>
 <td align="center" valign="top" width="12.5%">
   <a href="https://github.com/right-hand-boy">
     <img src="https://avatars.githubusercontent.com/u/165114010?v=4" width="60" alt="right-hand-boy"/><br />
-    <sub><b>right-han…</b></sub>
+    <sub><b>right-hand…</b></sub>
   </a>
 </td></tr>
 </table>
