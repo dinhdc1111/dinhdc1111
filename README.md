@@ -31,7 +31,8 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=red&style=plastic" alt="dinhdc1111" />
-<img src="./assets/200.webp" width="50" alt="View Icon" loading="lazy"/>
+<img src="./assets/view-profile.gif" width="150" alt="View Icon"/>
+<!-- <img src="./assets/200.webp" width="50" alt="View Icon" loading="lazy"/> -->
 </p>
 
 <div align="center">
@@ -313,6 +314,6 @@ introduce(developer);
 <!-- FOLLOWERS:END -->
   <img src="./assets/dinosaur-game.gif" alt="Thank you for visiting" width="100%"/>
   <hr/>
-<div align="center">
-  <img src="./assets/thanks-for-visitting.svg" alt="Thanks for visiting" width="100%"/>
-</div>
+  <img src="./assets/footer-1.gif" alt="Thanks for visiting" width="200" align="left"/>
+  <img src="./assets/thanks-for-visitting.svg" alt="Thanks for visiting" width="300" align="left"/>
+  <img src="./assets/footer-2.gif" alt="Thanks for visiting" width="200" align="right"/>
