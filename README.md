@@ -34,8 +34,12 @@
 <img src="./assets/200.webp" width="50" alt="View Icon" loading="lazy"/>
 </p>
 
+<div align="center">
+  <img src="./assets/portfolio-congdinh.svg" width="100%" alt="Profile Cong Dinh" loading="lazy"/>
+</div>
+
 | <img src="./assets/js-icon.svg" width="12" alt="CiDii Gif" loading="lazy"/>&nbsp;&nbsp;&nbsp;<small>script.js</small>&nbsp;&nbsp;&nbsp;&nbsp;&times; | <img src="./assets/html-icon.webp" width="12" alt="CiDii Gif" loading="lazy"/>&nbsp;&nbsp;&nbsp;<small>index.html</small>&nbsp;&nbsp;&nbsp;&nbsp;&times; |
-| :------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ```js
 /**
@@ -60,10 +64,6 @@ introduce(developer);
 <strong>Output:</strong>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=15CA00&background=FFFFFF00&width=600&height=40&separator=%3C&lines=Hi+there+%F0%9F%98%8D%2C+I'm+Dong+Cong+Dinh%3CI'm+a+Frontend+Developer%3CNice+to+meet+you!)](https://git.io/typing-svg)
-
-<div align="center">
-  <img src="./assets/portfolio-congdinh.svg" width="100%" alt="Profile Cong Dinh" loading="lazy"/>
-</div>
 
 <h3 align="left">❤️ Connect with me</h3>
 <p align="left">
@@ -257,6 +257,7 @@ introduce(developer);
 </table> -->
 
 ## 👥 My Followers
+
 <table>
   <tr>
     <td align="center" valign="top" width="14.28%"><a href="https://github.com/phuonganhpt511"><img src="https://avatars.githubusercontent.com/phuonganhpt511" width="60" alt="phuonganhpt511"/><br /><sub><b>phuonganhpt511</b></sub></a></td>
@@ -268,7 +269,8 @@ introduce(developer);
     <td align="center" valign="top" width="14.28%"><a href="https://github.com/nampq11"><img src="https://avatars.githubusercontent.com/nampq11" width="60" alt="nampq11"/><br /><sub><b>nampq11</b></sub></a></td>
   </tr>
 </table>
-<hr/>
+  <img src="./assets/dinosaur-game.gif" alt="Thank you for visiting" width="100%"/>
+  <hr/>
 <div align="center">
   <img src="./assets/thanks-for-visitting.svg" alt="Thanks for visiting" width="400"/>
 </div>
