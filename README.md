@@ -258,7 +258,8 @@ introduce(developer);
 
 ## 👥 My Followers
 
-<table>
+<!-- FOLLOWERS:START -->
+<!-- <table>
   <tr>
     <td align="center" valign="top" width="14.28%"><a href="https://github.com/phuonganhpt511"><img src="https://avatars.githubusercontent.com/phuonganhpt511" width="60" alt="phuonganhpt511"/><br /><sub><b>phuonganhpt511</b></sub></a></td>
     <td align="center" valign="top" width="14.28%"><a href="https://github.com/dinhdcph14290"><img src="https://avatars.githubusercontent.com/dinhdcph14290" width="60" alt="dinhdcph14290"/><br /><sub><b>dinhdcph14290</b></sub></a></td>
@@ -268,9 +269,10 @@ introduce(developer);
     <td align="center" valign="top" width="14.28%"><a href="https://github.com/Thanhccph"><img src="https://avatars.githubusercontent.com/Thanhccph" width="60" alt="Thanhccph"/><br /><sub><b>Thanhccph</b></sub></a></td>
     <td align="center" valign="top" width="14.28%"><a href="https://github.com/nampq11"><img src="https://avatars.githubusercontent.com/nampq11" width="60" alt="nampq11"/><br /><sub><b>nampq11</b></sub></a></td>
   </tr>
-</table>
+</table> -->
+<!-- FOLLOWERS:END -->
   <img src="./assets/dinosaur-game.gif" alt="Thank you for visiting" width="100%"/>
   <hr/>
 <div align="center">
-  <img src="./assets/thanks-for-visitting.svg" alt="Thanks for visiting" width="400"/>
+  <img src="./assets/thanks-for-visitting.svg" alt="Thanks for visiting" width="100%"/>
 </div>
