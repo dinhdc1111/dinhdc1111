@@ -259,17 +259,58 @@ introduce(developer);
 ## 👥 My Followers
 
 <!-- FOLLOWERS:START -->
-<!-- <table>
-  <tr>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/phuonganhpt511"><img src="https://avatars.githubusercontent.com/phuonganhpt511" width="60" alt="phuonganhpt511"/><br /><sub><b>phuonganhpt511</b></sub></a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/dinhdcph14290"><img src="https://avatars.githubusercontent.com/dinhdcph14290" width="60" alt="dinhdcph14290"/><br /><sub><b>dinhdcph14290</b></sub></a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/minhduc2307"><img src="https://avatars.githubusercontent.com/minhduc2307" width="60" alt="minhduc2307"/><br /><sub><b>minhduc2307</b></sub></a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nam2108004"><img src="https://avatars.githubusercontent.com/Nam2108004" width="60" alt="Nam2108004"/><br /><sub><b>Nam2108004</b></sub></a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/xuanphao19"><img src="https://avatars.githubusercontent.com/xuanphao19" width="60" alt="xuanphao19"/><br /><sub><b>xuanphao19</b></sub></a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/Thanhccph"><img src="https://avatars.githubusercontent.com/Thanhccph" width="60" alt="Thanhccph"/><br /><sub><b>Thanhccph</b></sub></a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/nampq11"><img src="https://avatars.githubusercontent.com/nampq11" width="60" alt="nampq11"/><br /><sub><b>nampq11</b></sub></a></td>
-  </tr>
-</table> -->
+<table>
+<tr>
+<td align="center" valign="top" width="14.28%">
+  <a href="https://github.com/nampq11">
+    <img src="https://avatars.githubusercontent.com/u/82878964?v=4" width="60" alt="nampq11"/><br />
+    <sub><b>nampq11</b></sub>
+  </a>
+</td>
+<td align="center" valign="top" width="14.28%">
+  <a href="https://github.com/xuanphao19">
+    <img src="https://avatars.githubusercontent.com/u/83102917?v=4" width="60" alt="xuanphao19"/><br />
+    <sub><b>xuanphao19</b></sub>
+  </a>
+</td>
+<td align="center" valign="top" width="14.28%">
+  <a href="https://github.com/dinhdcph14290">
+    <img src="https://avatars.githubusercontent.com/u/97747510?v=4" width="60" alt="dinhdcph14290"/><br />
+    <sub><b>dinhdcph14290</b></sub>
+  </a>
+</td>
+<td align="center" valign="top" width="14.28%">
+  <a href="https://github.com/Thanhccph">
+    <img src="https://avatars.githubusercontent.com/u/117610703?v=4" width="60" alt="Thanhccph"/><br />
+    <sub><b>Thanhccph</b></sub>
+  </a>
+</td>
+<td align="center" valign="top" width="14.28%">
+  <a href="https://github.com/minhduc2307">
+    <img src="https://avatars.githubusercontent.com/u/132923350?v=4" width="60" alt="minhduc2307"/><br />
+    <sub><b>minhduc2307</b></sub>
+  </a>
+</td>
+<td align="center" valign="top" width="14.28%">
+  <a href="https://github.com/phuonganhpt511">
+    <img src="https://avatars.githubusercontent.com/u/133995530?v=4" width="60" alt="phuonganhpt511"/><br />
+    <sub><b>phuonganhpt511</b></sub>
+  </a>
+</td>
+<td align="center" valign="top" width="14.28%">
+  <a href="https://github.com/Nam2108004">
+    <img src="https://avatars.githubusercontent.com/u/139768450?v=4" width="60" alt="Nam2108004"/><br />
+    <sub><b>Nam2108004</b></sub>
+  </a>
+</td></tr>
+<tr>
+<td align="center" valign="top" width="14.28%">
+  <a href="https://github.com/right-hand-boy">
+    <img src="https://avatars.githubusercontent.com/u/165114010?v=4" width="60" alt="right-hand-boy"/><br />
+    <sub><b>right-hand-boy</b></sub>
+  </a>
+</td></tr>
+</table>
 <!-- FOLLOWERS:END -->
   <img src="./assets/dinosaur-game.gif" alt="Thank you for visiting" width="100%"/>
   <hr/>
