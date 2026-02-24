@@ -111,13 +111,13 @@ introduce(developer);
     </td>
   <td align="center" width="96">
         <img src="./assets/tech/shadcn-ui-logo-modified.png" width="56" height="56" alt="shadcn UI" loading="lazy" />
-      <br>Shadcn UI
+      <br>Shadcn
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=materialui" width="56" height="56" alt="Material UI" loading="lazy" />
-      <br>Material UI
+      <br>MUI
     </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="56" height="56" alt="Sass" loading="lazy" />
