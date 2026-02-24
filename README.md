@@ -30,12 +30,12 @@
 ![MasterHead](https://res.cloudinary.com/do9rcgv5s/image/upload/v1770958181/u2pzldkuzyo8qmuxh4th.jpg)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=red&style=plastic" alt="dinhdc1111" loading="lazy" />
+<img src="https://komarev.com/ghpvc/?username=dinhdc1111&label=Profile%20views&color=red&style=plastic" alt="dinhdc1111" />
 <img src="./assets/200.webp" width="50" alt="View Icon" loading="lazy"/>
 </p>
 
 <div align="center">
-  <img src="./assets/portfolio-congdinh.svg" width="100%" alt="Profile Cong Dinh" loading="lazy"/>
+  <img src="./assets/portfolio-congdinh.svg" width="100%" alt="Profile Cong Dinh" />
 </div>
 
 | <img src="./assets/js-icon.svg" width="12" alt="CiDii Gif" loading="lazy"/>&nbsp;&nbsp;&nbsp;<small>script.js</small>&nbsp;&nbsp;&nbsp;&nbsp;&times; | <img src="./assets/html-icon.webp" width="12" alt="CiDii Gif" loading="lazy"/>&nbsp;&nbsp;&nbsp;<small>index.html</small>&nbsp;&nbsp;&nbsp;&nbsp;&times; |
