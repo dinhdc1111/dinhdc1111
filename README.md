@@ -4,6 +4,7 @@
   Contact : dongcongdinh2018@gmail.com
 
   ----------------------------------------------------------------------
+  ----------------------------------------------------------------------
 
   Thank you for taking the time to review this profile README.
 
@@ -19,6 +20,7 @@
   Please use only the portions you clearly understand and intentionally
   incorporate into your own profile.
 
+  ----------------------------------------------------------------------
   ----------------------------------------------------------------------
 
   Wishing you continued growth and success in building a professional,
@@ -221,41 +223,6 @@ introduce(developer);
     </td>
  </tr>
 </table>
-
-<!-- ## 🏆 Github Profile Trophy
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true" loading="lazy"/>
-</a> -->
-
-<!-- ## 📊 Github stats
-
-<a href="https://github.com/dinhdc1111">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinhdc1111&theme=tokyo-night&hide_border=true&area=true&custom_title=Dong%20Cong%20Dinh%20Contribution%20Graph" width="100%" loading="lazy">
-</a> -->
-
-<!-- <div align="center">
- <table>
-  <tr>
-    <td>
-      <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhdc1111&theme=radical&layout=pie&hide_border=true" alt="Top Languages" loading="lazy" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/dinhdc1111/github-readme-stats" target="_blank">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhdc1111&theme=radical" alt="Profile Details" loading="lazy" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/dinhdc1111/github-profile-summary-cards" target="_blank">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinhdc1111&theme=radical&utcOffset=8" alt="Productive Time" loading="lazy" />
-      </a>
-    </td>
-  </tr>
-</table> -->
 
 ## 👥 My Followers
 
