@@ -313,7 +313,6 @@ introduce(developer);
 </table>
 <!-- FOLLOWERS:END -->
   <img src="./assets/dinosaur-game.gif" alt="Thank you for visiting" width="100%"/>
-  <hr/>
   <img src="./assets/footer-1.gif" alt="Thanks for visiting" width="200" align="left"/>
   <img src="./assets/thanks-for-visitting.svg" alt="Thanks for visiting" width="300" align="left"/>
   <img src="./assets/footer-2.gif" alt="Thanks for visiting" width="200" align="right"/>
