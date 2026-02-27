@@ -230,6 +230,12 @@ introduce(developer);
 <table>
 <tr>
 <td align="center" valign="top" width="12.5%">
+  <a href="https://github.com/ishandutta2007">
+    <img src="https://avatars.githubusercontent.com/u/2527354?v=4" width="60" alt="ishandutta2007"/><br />
+    <sub><b>ishandutta…</b></sub>
+  </a>
+</td>
+<td align="center" valign="top" width="12.5%">
   <a href="https://github.com/nampq11">
     <img src="https://avatars.githubusercontent.com/u/82878964?v=4" width="60" alt="nampq11"/><br />
     <sub><b>nampq11</b></sub>
@@ -270,13 +276,21 @@ introduce(developer);
     <img src="https://avatars.githubusercontent.com/u/139768450?v=4" width="60" alt="Nam2108004"/><br />
     <sub><b>Nam2108004</b></sub>
   </a>
-</td>
+</td></tr>
+<tr>
 <td align="center" valign="top" width="12.5%">
   <a href="https://github.com/right-hand-boy">
     <img src="https://avatars.githubusercontent.com/u/165114010?v=4" width="60" alt="right-hand-boy"/><br />
     <sub><b>right-hand…</b></sub>
   </a>
-</td></tr>
+</td>
+<td align="center" valign="top" width="12.5%"></td>
+<td align="center" valign="top" width="12.5%"></td>
+<td align="center" valign="top" width="12.5%"></td>
+<td align="center" valign="top" width="12.5%"></td>
+<td align="center" valign="top" width="12.5%"></td>
+<td align="center" valign="top" width="12.5%"></td>
+<td align="center" valign="top" width="12.5%"></td></tr>
 </table>
 <!-- FOLLOWERS:END -->
   <img src="./assets/dinosaur-game.gif" alt="Thank you for visiting" width="100%"/>
