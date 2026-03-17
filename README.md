@@ -260,6 +260,12 @@ introduce(developer);
   </a>
 </td>
 <td align="center" valign="top" width="12.5%">
+  <a href="https://github.com/rasidi3112">
+    <img src="https://avatars.githubusercontent.com/u/129738392?v=4" width="60" alt="rasidi3112"/><br />
+    <sub><b>rasidi3112</b></sub>
+  </a>
+</td>
+<td align="center" valign="top" width="12.5%">
   <a href="https://github.com/minhduc2307">
     <img src="https://avatars.githubusercontent.com/u/132923350?v=4" width="60" alt="minhduc2307"/><br />
     <sub><b>minhduc230…</b></sub>
@@ -270,21 +276,20 @@ introduce(developer);
     <img src="https://avatars.githubusercontent.com/u/133995530?v=4" width="60" alt="phuonganhpt511"/><br />
     <sub><b>phuonganhp…</b></sub>
   </a>
-</td>
+</td></tr>
+<tr>
 <td align="center" valign="top" width="12.5%">
   <a href="https://github.com/Nam2108004">
     <img src="https://avatars.githubusercontent.com/u/139768450?v=4" width="60" alt="Nam2108004"/><br />
     <sub><b>Nam2108004</b></sub>
   </a>
-</td></tr>
-<tr>
+</td>
 <td align="center" valign="top" width="12.5%">
   <a href="https://github.com/right-hand-boy">
     <img src="https://avatars.githubusercontent.com/u/165114010?v=4" width="60" alt="right-hand-boy"/><br />
     <sub><b>right-hand…</b></sub>
   </a>
 </td>
-<td align="center" valign="top" width="12.5%"></td>
 <td align="center" valign="top" width="12.5%"></td>
 <td align="center" valign="top" width="12.5%"></td>
 <td align="center" valign="top" width="12.5%"></td>
