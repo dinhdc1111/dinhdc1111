@@ -285,12 +285,17 @@ introduce(developer);
   </a>
 </td>
 <td align="center" valign="top" width="12.5%">
+  <a href="https://github.com/quocanhh86">
+    <img src="https://avatars.githubusercontent.com/u/160404811?v=4" width="60" alt="quocanhh86"/><br />
+    <sub><b>quocanhh86</b></sub>
+  </a>
+</td>
+<td align="center" valign="top" width="12.5%">
   <a href="https://github.com/right-hand-boy">
     <img src="https://avatars.githubusercontent.com/u/165114010?v=4" width="60" alt="right-hand-boy"/><br />
     <sub><b>right-hand…</b></sub>
   </a>
 </td>
-<td align="center" valign="top" width="12.5%"></td>
 <td align="center" valign="top" width="12.5%"></td>
 <td align="center" valign="top" width="12.5%"></td>
 <td align="center" valign="top" width="12.5%"></td>
