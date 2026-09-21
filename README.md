@@ -296,7 +296,12 @@ introduce(developer);
     <sub><b>right-hand…</b></sub>
   </a>
 </td>
-<td align="center" valign="top" width="12.5%"></td>
+<td align="center" valign="top" width="12.5%">
+  <a href="https://github.com/arvelquigley99">
+    <img src="https://avatars.githubusercontent.com/u/324570876?v=4" width="60" alt="arvelquigley99"/><br />
+    <sub><b>arvelquigl…</b></sub>
+  </a>
+</td>
 <td align="center" valign="top" width="12.5%"></td>
 <td align="center" valign="top" width="12.5%"></td>
 <td align="center" valign="top" width="12.5%"></td>
