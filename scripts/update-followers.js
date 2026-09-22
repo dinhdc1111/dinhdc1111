@@ -4,10 +4,15 @@ const axios = require("axios");
 const USERNAME = "dinhdc1111";
 const PER_PAGE = 100;
 const MAX_FOLLOWERS = 42;
-const MAX_NAME_LENGTH = 10;
+const COLUMNS = 6;
 
-function truncate(str, max) {
-  return str.length > max ? str.slice(0, max) + "…" : str;
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
 }
 
 async function getFollowers() {
@@ -38,32 +43,56 @@ async function getFollowers() {
 }
 
 function generateTable(followers) {
-  const columns = 8;
-  let rows = [];
+  const rows = [];
 
-  for (let i = 0; i < followers.length; i += columns) {
-    const chunk = followers.slice(i, i + columns);
+  for (let i = 0; i < followers.length; i += COLUMNS) {
+    const chunk = followers.slice(i, i + COLUMNS);
 
     const filledChunk = [...chunk];
-    while (filledChunk.length < columns) {
+    while (filledChunk.length < COLUMNS) {
       filledChunk.push(null);
     }
 
     const row = filledChunk
-      .map((f) =>
-        f
-          ? `\n<td align="center" valign="top" width="12.5%">\n  <a href="${f.html_url}">\n    <img src="${f.avatar_url}" width="60" alt="${f.login}"/><br />\n    <sub><b>${truncate(f.login, MAX_NAME_LENGTH)}</b></sub>\n  </a>\n</td>`
-          : `\n<td align="center" valign="top" width="12.5%"></td>`
-      )
+      .map((f) => {
+        if (!f) {
+          return `\n<td align="center" valign="top" width="16.66%"></td>`;
+        }
+
+        const login = escapeHtml(f.login);
+        const profileUrl = escapeHtml(f.html_url);
+        const avatarUrl = escapeHtml(f.avatar_url);
+
+        return `\n<td align="center" valign="top" width="16.66%">\n  <br />\n  <a href="${profileUrl}">\n    <img src="${avatarUrl}" width="72" height="72" alt="${login}'s GitHub avatar" loading="lazy" />\n  </a>\n  <br />\n  <a href="${profileUrl}"><strong>@${login}</strong></a>\n  <br />\n  <sub>View profile &#8599;</sub>\n  <br />&nbsp;\n</td>`;
+      })
       .join("");
 
     rows.push(`<tr>${row}</tr>`);
   }
 
-  return `<table>\n${rows.join("\n")}\n</table>`;
+  return `<table width="100%">\n${rows.join("\n")}\n</table>`;
 }
 
-function replaceSection(readme, tableHTML) {
+function generateSection(followers) {
+  const table = generateTable(followers);
+
+  return `<div align="center">
+  <p><strong>People who make the journey better</strong></p>
+  <p>
+    A small wall for the developers and makers following my work.<br />
+    <sub>Automatically refreshed every 6 hours.</sub>
+  </p>
+  <a href="https://github.com/${USERNAME}?tab=followers">
+    <img src="https://img.shields.io/github/followers/${USERNAME}?style=for-the-badge&amp;logo=github&amp;label=Community&amp;color=0d9488" alt="GitHub followers" />
+  </a>
+</div>
+
+<br />
+
+${table}`;
+}
+
+function replaceSection(readme, sectionHTML) {
   const start = "<!-- FOLLOWERS:START -->";
   const end = "<!-- FOLLOWERS:END -->";
 
@@ -74,18 +103,27 @@ function replaceSection(readme, tableHTML) {
 
   return readme.replace(
     regex,
-    `${start}\n${tableHTML}\n${end}`
+    `${start}\n${sectionHTML}\n${end}`
   );
 }
 
 async function main() {
   const followers = await getFollowers();
-  const tableHTML = generateTable(followers);
+  const sectionHTML = generateSection(followers);
 
   const readme = fs.readFileSync("README.md", "utf-8");
-  const updated = replaceSection(readme, tableHTML);
+  const updated = replaceSection(readme, sectionHTML);
 
   fs.writeFileSync("README.md", updated);
 }
 
-main().catch(console.error);
+if (require.main === module) {
+  main().catch(console.error);
+}
+
+module.exports = {
+  escapeHtml,
+  generateSection,
+  generateTable,
+  replaceSection,
+};

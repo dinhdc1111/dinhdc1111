@@ -227,85 +227,155 @@ introduce(developer);
 ## 👥 My Followers
 
 <!-- FOLLOWERS:START -->
-<table>
+<div align="center">
+  <p><strong>People who make the journey better</strong></p>
+  <p>
+    A small wall for the developers and makers following my work.<br />
+    <sub>Automatically refreshed every 6 hours.</sub>
+  </p>
+  <a href="https://github.com/dinhdc1111?tab=followers">
+    <img src="https://img.shields.io/github/followers/dinhdc1111?style=for-the-badge&amp;logo=github&amp;label=Community&amp;color=0d9488" alt="GitHub followers" />
+  </a>
+</div>
+
+<br />
+
+<table width="100%">
 <tr>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/helallao">
-    <img src="https://avatars.githubusercontent.com/u/78656003?v=4" width="60" alt="helallao"/><br />
-    <sub><b>helallao</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/78656003?v=4" width="72" height="72" alt="helallao's GitHub avatar" loading="lazy" />
   </a>
+  <br />
+  <a href="https://github.com/helallao"><strong>@helallao</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/nampq11">
-    <img src="https://avatars.githubusercontent.com/u/82878964?v=4" width="60" alt="nampq11"/><br />
-    <sub><b>nampq11</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/82878964?v=4" width="72" height="72" alt="nampq11's GitHub avatar" loading="lazy" />
   </a>
+  <br />
+  <a href="https://github.com/nampq11"><strong>@nampq11</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/xuanphao19">
-    <img src="https://avatars.githubusercontent.com/u/83102917?v=4" width="60" alt="xuanphao19"/><br />
-    <sub><b>xuanphao19</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/83102917?v=4" width="72" height="72" alt="xuanphao19's GitHub avatar" loading="lazy" />
   </a>
+  <br />
+  <a href="https://github.com/xuanphao19"><strong>@xuanphao19</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/seckinyasar">
-    <img src="https://avatars.githubusercontent.com/u/86570205?v=4" width="60" alt="seckinyasar"/><br />
-    <sub><b>seckinyasa…</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/86570205?v=4" width="72" height="72" alt="seckinyasar's GitHub avatar" loading="lazy" />
   </a>
+  <br />
+  <a href="https://github.com/seckinyasar"><strong>@seckinyasar</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/dinhdcph14290">
-    <img src="https://avatars.githubusercontent.com/u/97747510?v=4" width="60" alt="dinhdcph14290"/><br />
-    <sub><b>dinhdcph14…</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/97747510?v=4" width="72" height="72" alt="dinhdcph14290's GitHub avatar" loading="lazy" />
   </a>
+  <br />
+  <a href="https://github.com/dinhdcph14290"><strong>@dinhdcph14290</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/Thanhccph">
-    <img src="https://avatars.githubusercontent.com/u/117610703?v=4" width="60" alt="Thanhccph"/><br />
-    <sub><b>Thanhccph</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/117610703?v=4" width="72" height="72" alt="Thanhccph's GitHub avatar" loading="lazy" />
   </a>
-</td>
-<td align="center" valign="top" width="12.5%">
-  <a href="https://github.com/minhduc2307">
-    <img src="https://avatars.githubusercontent.com/u/132923350?v=4" width="60" alt="minhduc2307"/><br />
-    <sub><b>minhduc230…</b></sub>
-  </a>
-</td>
-<td align="center" valign="top" width="12.5%">
-  <a href="https://github.com/phuonganhpt511">
-    <img src="https://avatars.githubusercontent.com/u/133995530?v=4" width="60" alt="phuonganhpt511"/><br />
-    <sub><b>phuonganhp…</b></sub>
-  </a>
+  <br />
+  <a href="https://github.com/Thanhccph"><strong>@Thanhccph</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td></tr>
 <tr>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
+  <a href="https://github.com/minhduc2307">
+    <img src="https://avatars.githubusercontent.com/u/132923350?v=4" width="72" height="72" alt="minhduc2307's GitHub avatar" loading="lazy" />
+  </a>
+  <br />
+  <a href="https://github.com/minhduc2307"><strong>@minhduc2307</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
+</td>
+<td align="center" valign="top" width="16.66%">
+  <br />
+  <a href="https://github.com/phuonganhpt511">
+    <img src="https://avatars.githubusercontent.com/u/133995530?v=4" width="72" height="72" alt="phuonganhpt511's GitHub avatar" loading="lazy" />
+  </a>
+  <br />
+  <a href="https://github.com/phuonganhpt511"><strong>@phuonganhpt511</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
+</td>
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/Nam2108004">
-    <img src="https://avatars.githubusercontent.com/u/139768450?v=4" width="60" alt="Nam2108004"/><br />
-    <sub><b>Nam2108004</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/139768450?v=4" width="72" height="72" alt="Nam2108004's GitHub avatar" loading="lazy" />
   </a>
+  <br />
+  <a href="https://github.com/Nam2108004"><strong>@Nam2108004</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/quocanhh86">
-    <img src="https://avatars.githubusercontent.com/u/160404811?v=4" width="60" alt="quocanhh86"/><br />
-    <sub><b>quocanhh86</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/160404811?v=4" width="72" height="72" alt="quocanhh86's GitHub avatar" loading="lazy" />
   </a>
+  <br />
+  <a href="https://github.com/quocanhh86"><strong>@quocanhh86</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/right-hand-boy">
-    <img src="https://avatars.githubusercontent.com/u/165114010?v=4" width="60" alt="right-hand-boy"/><br />
-    <sub><b>right-hand…</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/165114010?v=4" width="72" height="72" alt="right-hand-boy's GitHub avatar" loading="lazy" />
   </a>
+  <br />
+  <a href="https://github.com/right-hand-boy"><strong>@right-hand-boy</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td>
-<td align="center" valign="top" width="12.5%">
+<td align="center" valign="top" width="16.66%">
+  <br />
   <a href="https://github.com/arvelquigley99">
-    <img src="https://avatars.githubusercontent.com/u/324570876?v=4" width="60" alt="arvelquigley99"/><br />
-    <sub><b>arvelquigl…</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/324570876?v=4" width="72" height="72" alt="arvelquigley99's GitHub avatar" loading="lazy" />
   </a>
+  <br />
+  <a href="https://github.com/arvelquigley99"><strong>@arvelquigley99</strong></a>
+  <br />
+  <sub>View profile &#8599;</sub>
+  <br />&nbsp;
 </td>
-<td align="center" valign="top" width="12.5%"></td>
-<td align="center" valign="top" width="12.5%"></td>
-<td align="center" valign="top" width="12.5%"></td>
-<td align="center" valign="top" width="12.5%"></td></tr>
+</tr>
 </table>
 <!-- FOLLOWERS:END -->
   <img src="./assets/dinosaur-game.gif" alt="Thank you for visiting" width="100%"/>
