@@ -374,8 +374,7 @@ introduce(developer);
   <br />
   <sub>View profile &#8599;</sub>
   <br />&nbsp;
-</td>
-</tr>
+</td></tr>
 </table>
 <!-- FOLLOWERS:END -->
   <img src="./assets/dinosaur-game.gif" alt="Thank you for visiting" width="100%"/>
