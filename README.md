@@ -244,17 +244,6 @@ introduce(developer);
 <tr>
 <td align="center" valign="top" width="16.66%">
   <br />
-  <a href="https://github.com/helallao">
-    <img src="https://avatars.githubusercontent.com/u/78656003?v=4" width="72" height="72" alt="helallao's GitHub avatar" loading="lazy" />
-  </a>
-  <br />
-  <a href="https://github.com/helallao"><strong>@helallao</strong></a>
-  <br />
-  <sub>View profile &#8599;</sub>
-  <br />&nbsp;
-</td>
-<td align="center" valign="top" width="16.66%">
-  <br />
   <a href="https://github.com/nampq11">
     <img src="https://avatars.githubusercontent.com/u/82878964?v=4" width="72" height="72" alt="nampq11's GitHub avatar" loading="lazy" />
   </a>
@@ -307,8 +296,7 @@ introduce(developer);
   <br />
   <sub>View profile &#8599;</sub>
   <br />&nbsp;
-</td></tr>
-<tr>
+</td>
 <td align="center" valign="top" width="16.66%">
   <br />
   <a href="https://github.com/minhduc2307">
@@ -319,7 +307,8 @@ introduce(developer);
   <br />
   <sub>View profile &#8599;</sub>
   <br />&nbsp;
-</td>
+</td></tr>
+<tr>
 <td align="center" valign="top" width="16.66%">
   <br />
   <a href="https://github.com/phuonganhpt511">
@@ -374,7 +363,8 @@ introduce(developer);
   <br />
   <sub>View profile &#8599;</sub>
   <br />&nbsp;
-</td></tr>
+</td>
+<td align="center" valign="top" width="16.66%"></td></tr>
 </table>
 <!-- FOLLOWERS:END -->
   <img src="./assets/dinosaur-game.gif" alt="Thank you for visiting" width="100%"/>
