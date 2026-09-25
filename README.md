@@ -266,17 +266,6 @@ introduce(developer);
 </td>
 <td align="center" valign="top" width="16.66%">
   <br />
-  <a href="https://github.com/seckinyasar">
-    <img src="https://avatars.githubusercontent.com/u/86570205?v=4" width="72" height="72" alt="seckinyasar's GitHub avatar" loading="lazy" />
-  </a>
-  <br />
-  <a href="https://github.com/seckinyasar"><strong>@seckinyasar</strong></a>
-  <br />
-  <sub>View profile &#8599;</sub>
-  <br />&nbsp;
-</td>
-<td align="center" valign="top" width="16.66%">
-  <br />
   <a href="https://github.com/dinhdcph14290">
     <img src="https://avatars.githubusercontent.com/u/97747510?v=4" width="72" height="72" alt="dinhdcph14290's GitHub avatar" loading="lazy" />
   </a>
@@ -307,8 +296,7 @@ introduce(developer);
   <br />
   <sub>View profile &#8599;</sub>
   <br />&nbsp;
-</td></tr>
-<tr>
+</td>
 <td align="center" valign="top" width="16.66%">
   <br />
   <a href="https://github.com/phuonganhpt511">
@@ -319,7 +307,8 @@ introduce(developer);
   <br />
   <sub>View profile &#8599;</sub>
   <br />&nbsp;
-</td>
+</td></tr>
+<tr>
 <td align="center" valign="top" width="16.66%">
   <br />
   <a href="https://github.com/Nam2108004">
@@ -364,6 +353,7 @@ introduce(developer);
   <sub>View profile &#8599;</sub>
   <br />&nbsp;
 </td>
+<td align="center" valign="top" width="16.66%"></td>
 <td align="center" valign="top" width="16.66%"></td></tr>
 </table>
 <!-- FOLLOWERS:END -->
